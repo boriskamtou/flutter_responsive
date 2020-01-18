@@ -2,6 +2,6 @@
 
 A litle project to learn about responsive in Flutter
 
-![Alt Enter]('assets/images/img1.png')
-![Alt Enter]('assets/images/img3.png')
-![Alt Enter]('assets/images/img2.png')
+![alt text](assets/images/img1.png) 
+![alt text](assets/images/img3.png)
+![alt text](assets/images/img2.png)
